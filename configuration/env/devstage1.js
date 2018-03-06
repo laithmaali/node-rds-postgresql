@@ -1,12 +1,12 @@
 module.exports = {
     databaseConfig:
     {
-        username: "lmaali",
-        password: "newPass2019",
+        username: "",
+        password: "",
         port: 8000,
-        database: "testdb",
-        host: "testdb1.cfonmf6wlm3h.us-east-2.rds.amazonaws.com",
-        dialect: "postgres"
+        database: "",
+        host: "",
+        dialect: ""
     },
     loggly: {
         tag: "loggly-tag"
